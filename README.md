@@ -51,4 +51,4 @@ These visuals help in interpreting key insights from the data effectively.
 
 ## ▶️ How to Run
 ## Google Collab Notebook
-[Click here to open the collab notebook].(https://colab.research.google.com/drive/1X7Jj77HcjlqauAtiR0-2PIKxE1zV6Whi?usp=sharing)
+[Click here to open the collab notebook].(https://colab.research.google.com/drive/1Thmrn7aDe87M7OeSlfdOJiNHA4IDvQAv?usp=sharing)
